@@ -8,12 +8,16 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ROGERIOPDOSSANTOS/README-template?style=for-the-badge) 
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/ROGERIOPDOSSANTOS/README-template?style=for-the-badge)
 
+## Coeficiente de Correlação
 <img src="exemplo-image.png" alt="exemplo imagem">
 
-> Aplicando 4 diferentes técnicas de pré-processamento de dados para aprendizado de máquina, pois esta é uma das maiores dúvidas de quem começa em Data Science.
+> O coeficiente de determinação indica o quanto a reta de regressão explica o ajuste da reta, enquanto que o coeficiente de correlação deve ser usado como uma medida de força da relação entre as variáveis
+
 
 ### Padronização de Dados
 
+> Aplicando 4 diferentes técnicas de pré-processamento de dados para aprendizado de máquina, pois esta é uma das maiores dúvidas de quem começa em Data Science.
+> 
 O projeto ainda está em desenvolvimento e as próximas atualizações serão voltadas nas seguintes tarefas:
 
 - [ ] Aplicar Escala aos dados
