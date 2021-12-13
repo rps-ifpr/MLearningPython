@@ -11,7 +11,7 @@
 ## 📈 Coeficiente de Correlação
 
 
-<img src="correlacao.png" alt="exemplo imagem">
+<img src="correlacao.png" alt="exemplo">
 
 
 > O coeficiente de determinação indica o quanto a reta de regressão explica o ajuste da reta, enquanto que o coeficiente de correlação deve ser usado como uma medida de força da relação entre as variáveis
