@@ -1,4 +1,4 @@
-# Regressão Linear
+# 📟 Regressão Linear
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
@@ -8,13 +8,13 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ROGERIOPDOSSANTOS/README-template?style=for-the-badge) 
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/ROGERIOPDOSSANTOS/README-template?style=for-the-badge)
 
-## Coeficiente de Correlação
+## 📈 Coeficiente de Correlação
 <img src="exemplo-image.png" alt="exemplo imagem">
 
 > O coeficiente de determinação indica o quanto a reta de regressão explica o ajuste da reta, enquanto que o coeficiente de correlação deve ser usado como uma medida de força da relação entre as variáveis
 
 
-## Padronização de Dados
+## ⚙️ Padronização de Dados
 
 * Aplicando 4 diferentes técnicas de pré-processamento de dados para aprendizado de máquina, pois esta é uma das maiores dúvidas de quem começa em Data Science.
 
