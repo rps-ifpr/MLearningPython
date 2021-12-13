@@ -9,7 +9,10 @@
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/ROGERIOPDOSSANTOS/README-template?style=for-the-badge)
 
 ## 📈 Coeficiente de Correlação
+
+
 <img src="exemplo-image.png" alt="exemplo imagem">
+
 
 > O coeficiente de determinação indica o quanto a reta de regressão explica o ajuste da reta, enquanto que o coeficiente de correlação deve ser usado como uma medida de força da relação entre as variáveis
 
