@@ -1,5 +1,5 @@
 
-truename: Acao_ML
+truename: actions
 
 on: 
  pull_requests:
@@ -16,7 +16,7 @@ jobs:
         with:
           node-version: '14.x'
       - run: iarn
-      - run: iarn acao_ML
+      - run: iarn action
       - run: npm install -g bats
       - run: bats -v
       env: 
