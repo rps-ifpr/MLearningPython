@@ -14,8 +14,9 @@ jobs:
     - name: 📂 Sync files
       uses: SamKirkland/FTP-Deploy-Action@4.2.0
     with:
-        server: ftp://appafasia.com.br
+        server: ftp://185.28.21.71
         username: u719753598.mlagro.online
         password: ${{ secrets.password }}
         protocol: ftps
         port: 21
+        server-dir: public_html/
