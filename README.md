@@ -1,7 +1,7 @@
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
-![example workflow](https://github.com/<OWNER>/<REPOSITORY>/actions/workflows/<WORKFLOW_FILE>/badge.svg)
+![Tests](https://github.com/ROGERIOPDOSSANTOS/MLearningPython/actions/workflows/test.yml/badge.svg)
 
 # 📟 Regressão Linear
 
