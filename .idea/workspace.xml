@@ -1,41 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="40d20ba6-5529-4115-8457-403c19901ea9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/Activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/activate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/deactivate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/keyring.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/normalizer.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/pip.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/pip3.9.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/pip3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/pkginfo.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/pygmentize.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/pyproject-build.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/python.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/pythonw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2html.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2html4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2html5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2latex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2man.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2odt.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2odt_prepstyles.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2pseudoxml.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2s5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2xetex.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rst2xml.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/rstpep2html.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/tqdm.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/Scripts/twine.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/pyvenv.cfg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv_climate/setup.py" beforeDir="false" />
-    </list>
+    <list default="true" id="40d20ba6-5529-4115-8457-403c19901ea9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -82,5 +48,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
