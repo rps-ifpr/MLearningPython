@@ -1,17 +1,13 @@
-<p align="center">
+
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
-![Tests](https://github.com/ROGERIOPDOSSANTOS/MLearningPython/actions/workflows/test.yml/badge.svg)
+
+[![codecov](https://codecov.io/gh/ROGERIOPDOSSANTOS/MLearningPython/branch/master/graph/badge.svg?token=W2F10IBE5Z)](https://codecov.io/gh/ROGERIOPDOSSANTOS/MLearningPython)
 
 # 📟 Regressão Linear
 
 <!---Esses são exemplos. Veja https://shields.io para outras pessoas ou para personalizar este conjunto de escudos. Você pode querer incluir dependências, status do projeto e informações de licença aqui--->
 
-![GitHub repo size](https://img.shields.io/github/repo-size/ROGERIOPDOSSANTOS/README-template?style=for-the-badge)
-![GitHub language count](https://img.shields.io/github/languages/count/ROGERIOPDOSSANTOS/README-template?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/ROGERIOPDOSSANTOS/README-template?style=for-the-badge)
-![Bitbucket open issues](https://img.shields.io/bitbucket/issues/ROGERIOPDOSSANTOS/README-template?style=for-the-badge) 
-![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/ROGERIOPDOSSANTOS/README-template?style=for-the-badge)
 
 ## 📈 Coeficiente de Correlação
 
