@@ -39,17 +39,11 @@ Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
 ## 🚀 Instalando MLearningPython-Climate
 
-Para instalar o MLearningPython-Climate, siga estas etapas:
+Para instalar o pacote MLearningPython-Climate, siga estas etapas:
 
-Linux e macOS:
-```
-<comando_de_instalação>
-```
-
-Windows:
-```
-<comando_de_instalação>
-```
+``
+pip install -i https://test.pypi.org/simple/ climate-pkg-MLearningPY
+``
 
 ## ☕ Usando MLearningPython-Climate
 
